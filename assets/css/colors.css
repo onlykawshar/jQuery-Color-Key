@@ -1,0 +1,58 @@
+/*-----------------------------------------------------------------------------------------
+*                               1. Defoult (Blue) Colors -- (#198fed)
+* ----------------------------------------------------------------------------------------*/
+
+
+.header {background: #198fed;}
+.margin .title {background: #198fed;}
+.margin p span {background: #198fed;}
+.s-img {border-color: #198fed;}
+
+/*-----------------------------------------------------------------------------------------
+*                               2. Turquoise Colors -- (#1abc9c)
+* ----------------------------------------------------------------------------------------*/
+.color1,
+
+.sw-color1 .header {background: #1abc9c;}
+.sw-color1 .margin .title {background: #1abc9c;}
+.sw-color1 .margin p span {background: #1abc9c;}
+.sw-color1 .s-img {border-color: #1abc9c;}
+/*-----------------------------------------------------------------------------------------
+*                               3. Green Colors -- (#48c24e)
+* ----------------------------------------------------------------------------------------*/
+.color2,
+
+.sw-color2 .header {background: #48c24e;}
+.sw-color2 .margin .title {background: #48c24e;}
+.sw-color2 .margin p span {background: #48c24e;}
+.sw-color2 .s-img {border-color: #48c24e;}
+
+/*-----------------------------------------------------------------------------------------
+*                               4. Yallow Colors -- (#fb9902)
+* ----------------------------------------------------------------------------------------*/
+.color3,
+
+.sw-color3 .header {background: #fb9902;}
+.sw-color3 .margin .title {background: #fb9902;}
+.sw-color3 .margin p span {background: #fb9902;}
+.sw-color3 .s-img {border-color: #fb9902;}
+
+/*-----------------------------------------------------------------------------------------
+*                               5. Magento Colors -- (#602cbe)
+* ----------------------------------------------------------------------------------------*/
+.color4,
+
+.sw-color4 .header {background: #602cbe;}
+.sw-color4 .margin .title {background: #602cbe;}
+.sw-color4 .margin p span {background: #602cbe;}
+.sw-color4 .s-img {border-color: #602cbe;}
+
+/*-----------------------------------------------------------------------------------------
+*                               6. Red Colors -- (#ff4242)
+* ----------------------------------------------------------------------------------------*/
+.color5,
+
+.sw-color5 .header {background: #ff4242;}
+.sw-color5 .margin .title {background: #ff4242;}
+.sw-color5 .margin p span {background: #ff4242;}
+.sw-color5 .s-img {border-color: #ff4242;}
